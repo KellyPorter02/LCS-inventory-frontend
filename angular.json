@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "LCS-inventory-frontend"
+  "defaultProject": "LCS-inventory-frontend",
+  "cli": {
+    "analytics": "a1513944-d4b4-44a4-ab85-f2cb8adfe828"
+  }
 }
